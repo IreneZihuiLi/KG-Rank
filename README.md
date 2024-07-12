@@ -1,5 +1,9 @@
 # KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques
 
+Accepted by [BioNLP Workshop](https://aclweb.org/aclwiki/BioNLP_Workshop) @ACL 2024. 
+
+**Authors: **Rui Yang, Haoran Liu, Edison Marrese-Taylor, Qingcheng Zeng, Yu He Ke, Wanxin Li, Lechao Cheng, Qingyu Chen, James Caverlee, Yutaka Matsuo, and Irene Li.
+
 Large Language Models (LLMs) have significantly advanced healthcare innovation in generation capabilities. However, their application in real clinical settings is challenging due to potential deviations from medical facts and inherent biases. In this work, we develop an augmented LLM framework, KG-Rank, which leverages a medical knowledge graph (KG) with ranking and re-ranking techniques, aiming to improve free-text question-answering (QA) in the medical domain. 
 
 <!-- Framework -->
